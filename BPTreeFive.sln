@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BPTreeFive", "BPTreeFive\BPTreeFive.csproj", "{DA881E29-6A29-4B13-9594-AB1AD772DA97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTreeTest", "BTreeTest\BTreeTest.csproj", "{B64BFB81-A193-43D7-9B55-195594447F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA881E29-6A29-4B13-9594-AB1AD772DA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA881E29-6A29-4B13-9594-AB1AD772DA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA881E29-6A29-4B13-9594-AB1AD772DA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA881E29-6A29-4B13-9594-AB1AD772DA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64BFB81-A193-43D7-9B55-195594447F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64BFB81-A193-43D7-9B55-195594447F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64BFB81-A193-43D7-9B55-195594447F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64BFB81-A193-43D7-9B55-195594447F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC4E76E-5CAA-444B-8CEE-FE3A156211F4}
+	EndGlobalSection
+EndGlobal
